@@ -25,4 +25,4 @@ chmod +x wayback.sh
 
 Here's a sample terminal output:
 
-![Example Output](img/wayback.png)
+![Example Output](img/wayback.PNG)
