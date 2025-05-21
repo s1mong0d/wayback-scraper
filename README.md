@@ -17,8 +17,8 @@ Made for **bug bounty hunters**, **pentesters**, and **OSINT enthusiasts**.
 ## 🧪 Example Usage
 
 ```bash
-chmod +x wayback_scraper.sh
-./wayback_scraper.sh
+chmod +x wayback.sh
+./wayback.sh
 ```
 
 ### 📸 Screenshot
