@@ -11,8 +11,8 @@ RESET="\e[0m"
 
 echo -e "${CYAN}"
 echo "##############################################"
-echo -e "# ${BOLD}       s1monC2 - Wayback Machine Scraper       ${RESET}${CYAN}#"
-echo -e "# ${BOLD}       Author: ${RED}s1monC2${RESET}${CYAN}                         #"
+echo -e "# ${BOLD}       s1mong0d - Wayback Machine Scraper       ${RESET}${CYAN}#"
+echo -e "# ${BOLD}       Author: ${RED}s1mong0d${RESET}${CYAN}                         #"
 echo "##############################################"
 echo -e "${RESET}"
 
